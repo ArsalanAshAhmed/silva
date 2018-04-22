@@ -1,0 +1,55 @@
+Rajaais mother stuff
+
+WEBSITE:
+- Service page
+- contact page
+- about us page (Profile)
+- team page
+- blackdevil page
+- not many pictures
+- more text
+- logo for the website
+- .com domain
+- compnay exists since 2012
+- company emails
+
+Free services:
+- Domain
+- Hosting (3 months)
+- Logo
+- Business Card
+- service (3 months)
+
+Invoice Generator:
+- Send invoices directly as email (Feature needed)
+- 3 types:
+	- Quotation Slip
+	- Performa
+	- Invoice
+Attributes:
+	- Quantity
+	- Desc
+	- Code
+	- VAT
+	- Unit price
+	- Sub total
+	- total
+	- date
+	- address
+	- banking details for both bank acc
+	- website and email
+	
+
+Services:
+-	Minning supplies
+-	Spare parts
+-	Construction
+-	Tools
+-	Industrial Supplies
+-	Power Tools
+-	Tech Hardware
+- 	Tires
+-	Stationary
+-	Transport/Supplying
+
+
